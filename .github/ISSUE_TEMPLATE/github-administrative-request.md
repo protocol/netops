@@ -1,16 +1,16 @@
 ---
-name: Netops Request
-about: Request general assistance from NetOps
-title: "[General] <request summary>"
+name: Github Administrative Request
+about: Questions or changes to Github organizations, projects, settings, permissions,
+  and other related requests.
+title: "[GitHub] <request summary>"
 labels: ''
-assignees: ''
+assignees: stongo
 
 ---
 
-### What is the goal?
-<!-- detail (but briefly) the expectations you have once this request is complete -->
+### Summary
+<!-- Summarize your request in one or two lines. -->
 
-  
 ### Why do you need this?
 <!-- include information here which is helpful toward engineers making independent decisions without stakeholders. simple requests may ignore this section, but more complex request should consider what might need to be known in advance and add it -->
 
