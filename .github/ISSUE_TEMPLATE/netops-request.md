@@ -3,6 +3,8 @@ name: Netops Request
 about: Request general assistance from NetOps
 title: "[General] <request summary>"
 labels: ''
+assignees: ''
+
 ---
 
 ### What is the goal?
